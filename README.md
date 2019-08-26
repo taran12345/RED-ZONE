@@ -14,10 +14,17 @@ Model will be trained using these data collected from various sources using mult
 Parameters considered while training the model:
 
 history of crimes in the area
-presence of people
+
+Murder
+
+Rape
+
 security guards
+
 presence of surveillance cameras
+
 Model Prediction:
+
 Model will predict whether the route on which user is planning to travel is safe or not. For this we will take source and destination as an input from the user.
 
 Model Upgradtion:
